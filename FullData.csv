@@ -1,0 +1,500 @@
+ClientId,Sessions,Medium,Keyword,Source,Pageviews,Revenue,Transactions, ConversionRate
+252109064,9,organic,chicken,google,1,0,0,1
+254231038,9,organic,oranges,facebook,1,189,3,1
+254632366,9,organic,milk,pinterest,1,0,0,1
+254698912,9,organic,wine,youtube,1,0,0,1
+254974139,9,organic,water,instagram,1,0,0,1
+255145404,9,organic,beer,reddit,1,0,0,1
+258444196,9,organic,butter,twitter,1,419,4,1
+258871018,9,organic,red wine,naver,1,393,1,1
+258903090,9,organic,beef,yelp,1,0,0,1
+259541641,9,organic,banana,instagram stories,2,0,0,1
+260301098,9,organic,avocado,google,1,0,0,1
+26098705,9,organic,gift card,facebook,3,170,1,1
+261617879,9,organic,chicken,pinterest,1,0,0,1
+261745327,9,organic,oranges,youtube,3,193,1,1
+262976047,9,organic,milk,instagram,2,593,3,1
+264307053,9,organic,wine,reddit,1,299,1,1
+264829907,9,organic,water,twitter,2,0,0,1
+265211206,9,referral,beer,naver,1,0,0,1
+266492546,9,organic,butter,yelp,1,473,3,1
+270584169,9,organic,red wine,instagram stories,3,124,1,1
+270761541,9,organic,beef,google,1,0,0,1
+271455066,9,organic,banana,facebook,1,0,0,1
+272342020,9,organic,avocado,pinterest,1,0,0,1
+273719525,9,organic,gift card,youtube,1,0,0,1
+275074636,9,organic,chicken,instagram,2,485,4,1
+275143059,9,organic,oranges,reddit,1,0,0,1
+279587408,9,organic,milk,twitter,1,338,3,1
+280385054,9,organic,wine,naver,1,0,0,1
+282083834,9,organic,water,yelp,3,289,3,1
+282592040,9,organic,beer,instagram stories,1,0,0,1
+284790638,9,organic,butter,google,1,0,0,1
+286366085,9,organic,red wine,facebook,1,0,0,1
+287245885,9,organic,beef,pinterest,1,255,1,1
+288214929,9,organic,banana,youtube,13,0,0,1
+28874887,9,organic,avocado,instagram,1,227,1,1
+290299996,9,organic,gift card,reddit,2,0,0,1
+290581723,9,organic,chicken,twitter,1,279,1,1
+290707689,9,organic,oranges,naver,2,289,3,1
+290734484,9,organic,milk,yelp,1,0,0,1
+292759648,9,organic,wine,instagram stories,1,0,0,1
+292830464,9,organic,water,google,1,256,1,1
+294349071,9,organic,beer,facebook,1,596,1,1
+296790178,9,organic,butter,pinterest,1,688,3,1
+297360424,9,organic,red wine,youtube,1,0,0,0
+29806722,9,referral,beef,instagram,15,0,0,1
+298578473,9,referral,banana,reddit,1,0,0,1
+299689896,9,referral,avocado,twitter,3,0,0,1
+29992049,9,referral,gift card,naver,1,0,0,0
+300255416,9,referral,chicken,yelp,1,452,3,1
+300312762,9,referral,oranges,instagram stories,1,0,0,1
+300435222,9,referral,milk,google,1,242,1,1
+301752786,9,referral,wine,facebook,1,0,0,1
+302960921,9,referral,water,pinterest,1,0,0,1
+303540682,9,referral,beer,youtube,1,910,6,1
+305747155,9,referral,butter,instagram,1,0,0,1
+306061041,9,referral,red wine,reddit,5,222,1,1
+30736617,9,referral,beef,twitter,2,0,0,1
+308627438,9,referral,banana,naver,4,0,0,1
+309403913,9,referral,avocado,yelp,3,0,0,1
+310335055,9,referral,gift card,instagram stories,5,0,0,1
+311624615,9,referral,chicken,google,2,0,0,1
+312027537,9,referral,oranges,facebook,2,0,0,1
+313197079,9,referral,milk,pinterest,2,303,1,1
+314324307,9,referral,wine,youtube,3,240,1,1
+317021864,9,referral,water,instagram,11,194,1,1
+31720805,9,referral,beer,reddit,6,0,0,1
+319507044,9,referral,butter,twitter,3,805,4,1
+321122303,9,referral,red wine,naver,4,0,0,1
+321519022,9,referral,beef,yelp,1,697,5,1
+321672747,9,referral,banana,instagram stories,8,0,0,1
+323017322,9,referral,avocado,google,2,391,1,1
+32354565,9,organic,gift card,facebook,2,211,1,1
+325806855,9,organic,chicken,pinterest,2,183,1,1
+326501642,9,organic,oranges,youtube,1,0,0,1
+328830557,9,organic,milk,instagram,1,302,1,1
+329056017,9,organic,wine,reddit,3,530,4,1
+330546358,9,organic,water,twitter,1,0,0,1
+330858752,9,organic,beer,naver,1,647,3,1
+331599576,9,organic,butter,yelp,8,0,0,1
+33163360,9,organic,red wine,instagram stories,1,1264,3,1
+333957187,9,organic,beef,google,1,320,3,1
+334266808,9,rss,banana,facebook,5,261,1,1
+33450771,9,organic,avocado,pinterest,4,409,3,1
+335821849,9,organic,gift card,youtube,1,0,0,1
+337486294,9,organic,chicken,instagram,1,0,0,1
+337891660,9,organic,oranges,reddit,2,0,0,1
+338038528,9,organic,milk,twitter,1,0,0,1
+338467010,9,organic,wine,naver,1,0,0,1
+338552183,9,organic,water,yelp,1,0,0,1
+341055973,9,organic,beer,instagram stories,2,0,0,1
+341741080,9,organic,butter,google,2,316,1,1
+342172185,9,organic,red wine,facebook,2,209,1,1
+342718232,9,organic,beef,pinterest,2,0,0,1
+345223634,9,organic,banana,youtube,1,0,0,1
+346345628,9,organic,avocado,instagram,2,0,0,1
+346504237,9,organic,gift card,reddit,2,212,3,1
+34844066,9,organic,chicken,twitter,1,188,1,1
+348695882,9,organic,oranges,naver,2,310,1,1
+350531507,9,organic,milk,yelp,2,375,1,1
+352215421,9,organic,wine,instagram stories,1,0,0,1
+353419309,9,organic,water,google,1,0,0,1
+353626898,9,organic,beer,facebook,2,252,1,1
+355077898,9,referral,butter,pinterest,1,0,0,1
+355223981,9,organic,red wine,youtube,1,0,0,1
+355376833,9,organic,beef,instagram,2,0,0,1
+356054307,9,organic,banana,reddit,1,271,1,1
+356406354,9,organic,avocado,twitter,1,0,0,1
+358434292,9,organic,gift card,naver,1,0,0,1
+358710202,9,organic,chicken,yelp,1,0,0,1
+358936611,9,organic,oranges,instagram stories,1,0,0,1
+35903402,9,organic,milk,google,9,0,0,1
+361145758,9,organic,wine,facebook,1,0,0,1
+362195339,9,organic,water,pinterest,1,0,0,1
+362657956,9,organic,beer,youtube,1,0,0,1
+362963357,9,organic,butter,instagram,1,0,0,0
+36402426,9,organic,red wine,reddit,6,0,0,0
+366568489,9,organic,beef,twitter,2,0,0,1
+366607798,9,organic,banana,naver,1,246,1,1
+366622556,9,organic,avocado,yelp,1,0,0,1
+367657498,9,organic,gift card,instagram stories,1,0,0,1
+367741649,9,organic,chicken,google,1,0,0,0
+368696795,9,organic,oranges,facebook,1,607,4,1
+369023110,9,organic,milk,pinterest,2,649,5,1
+369546640,9,organic,wine,youtube,1,0,0,1
+369854594,9,organic,water,instagram,1,0,0,1
+370610150,9,organic,beer,reddit,1,271,1,1
+370832848,9,rss,butter,twitter,1,0,0,1
+370939922,9,organic,red wine,naver,1,0,0,0
+373453158,9,organic,beef,yelp,1,0,0,1
+3745698,9,organic,banana,instagram stories,1,132,1,1
+377055547,9,organic,avocado,google,1,0,0,1
+378729364,9,organic,gift card,facebook,1,0,0,1
+379507241,9,organic,chicken,pinterest,1,462,1,1
+3796693,9,organic,oranges,youtube,1,0,0,1
+382024720,9,organic,milk,instagram,1,343,3,1
+383343834,9,organic,wine,reddit,1,174,3,1
+384496425,9,organic,water,twitter,1,382,1,1
+384893216,9,organic,beer,naver,1,0,0,1
+385040532,9,organic,butter,yelp,1,0,0,1
+385403717,9,organic,red wine,instagram stories,1,0,0,1
+386638944,9,organic,beef,google,4,0,0,1
+389633431,9,organic,banana,facebook,1,0,0,1
+390172395,9,organic,avocado,pinterest,1,0,0,1
+390867246,9,organic,gift card,youtube,2,0,0,1
+391653936,9,referral,chicken,instagram,1,151,1,1
+391819739,9,organic,oranges,reddit,2,325,1,1
+392285372,9,organic,milk,twitter,1,0,0,1
+394104257,9,organic,wine,naver,1,319,3,1
+396838388,9,organic,water,yelp,1,0,0,1
+397064144,9,organic,beer,instagram stories,1,0,0,1
+397084555,9,organic,butter,google,1,0,0,1
+397435603,9,organic,red wine,facebook,1,465,1,1
+399040502,9,organic,beef,pinterest,1,0,0,1
+400407718,9,organic,banana,youtube,1,382,1,1
+400584414,9,organic,avocado,instagram,1,0,0,1
+40063923,9,organic,gift card,reddit,1,0,0,1
+402032506,9,organic,chicken,twitter,1,0,0,1
+402217714,9,organic,oranges,naver,2,0,0,1
+404063122,9,referral,milk,yelp,1,0,0,1
+40839874,9,organic,wine,instagram stories,1,0,0,1
+409787422,9,organic,water,google,3,0,0,1
+409955390,9,organic,beer,facebook,1,0,0,1
+410151290,9,organic,butter,pinterest,1,0,0,1
+410930733,9,organic,red wine,youtube,1,0,0,1
+415848033,9,organic,beef,instagram,1,0,0,1
+416167448,9,organic,banana,reddit,1,69,1,1
+416228117,9,organic,avocado,twitter,1,0,0,1
+416908909,9,organic,gift card,naver,1,0,0,1
+417169972,9,organic,chicken,yelp,1,300,1,1
+417769304,9,organic,oranges,instagram stories,1,152,1,1
+421285372,9,referral,milk,google,4,232,1,1
+421880706,9,organic,wine,facebook,2,0,0,1
+422835966,9,organic,water,pinterest,1,0,0,1
+423441305,9,organic,beer,youtube,1,0,0,1
+423576589,9,organic,butter,instagram,2,260,1,1
+425138814,9,organic,red wine,reddit,1,0,0,1
+425511598,9,organic,beef,twitter,1,0,0,1
+426197765,9,organic,banana,naver,1,0,0,1
+426613269,9,organic,avocado,yelp,1,0,0,1
+427854743,9,organic,gift card,instagram stories,1,151,1,1
+428170351,9,organic,chicken,google,1,780,5,1
+42846661,9,organic,oranges,facebook,1,150,3,1
+428932612,9,organic,milk,pinterest,3,0,0,1
+428983993,9,organic,wine,youtube,1,0,0,1
+430055652,9,organic,water,instagram,1,111,1,1
+431009817,9,organic,beer,reddit,1,0,0,1
+432106628,9,organic,butter,twitter,2,0,0,1
+435385448,9,organic,red wine,naver,1,0,0,0
+440118696,9,organic,beef,yelp,1,0,0,1
+441201948,9,organic,banana,instagram stories,1,0,0,1
+441758366,9,organic,avocado,google,1,362,3,1
+441882067,9,referral,gift card,facebook,1,0,0,1
+44340091,9,organic,chicken,pinterest,1,0,0,1
+445075246,9,organic,oranges,youtube,2,0,0,1
+446849404,9,organic,milk,instagram,1,0,0,1
+446925685,9,organic,wine,reddit,1,170,1,1
+447184859,9,organic,water,twitter,1,0,0,1
+4481717,9,organic,beer,naver,2,0,0,1
+448207580,9,organic,butter,yelp,2,0,0,1
+448322819,9,referral,red wine,instagram stories,1,0,0,1
+45029948,9,referral,beef,google,1,0,0,1
+451945638,9,organic,banana,facebook,1,211,1,1
+454162160,9,organic,avocado,pinterest,1,0,0,1
+454346015,9,organic,gift card,youtube,1,0,0,1
+454591433,9,organic,chicken,instagram,1,0,0,1
+454619561,9,organic,oranges,reddit,1,364,1,1
+455624692,9,organic,milk,twitter,1,150,1,1
+457767526,9,organic,wine,naver,1,0,0,1
+458469356,9,organic,water,yelp,1,316,3,1
+459469706,9,organic,beer,instagram stories,2,286,1,1
+459796124,9,organic,butter,google,7,0,0,1
+459934703,9,organic,red wine,facebook,2,0,0,1
+460917151,9,organic,beef,pinterest,1,0,0,1
+461775478,9,organic,banana,youtube,1,0,0,1
+46367711,9,organic,avocado,instagram,1,0,0,1
+463706213,9,referral,gift card,reddit,1,273,1,1
+463875298,9,organic,chicken,twitter,1,0,0,1
+464415677,9,organic,oranges,naver,1,0,0,1
+468037326,9,organic,milk,yelp,1,0,0,1
+469616634,9,organic,wine,instagram stories,1,0,0,1
+469877565,9,organic,water,google,2,437,1,1
+470109359,9,organic,beer,facebook,1,0,0,1
+470418816,9,organic,butter,pinterest,1,848,8,1
+470992967,9,organic,red wine,youtube,1,0,0,1
+471313711,9,organic,beef,instagram,1,0,0,1
+473483625,9,organic,banana,reddit,1,0,0,1
+47351658,9,organic,avocado,twitter,3,0,0,1
+474546402,9,organic,gift card,naver,1,0,0,1
+476521629,9,organic,chicken,yelp,2,131,1,1
+477202493,9,organic,oranges,instagram stories,2,446,3,1
+479277973,9,organic,milk,google,1,245,1,1
+479929358,9,organic,wine,facebook,1,0,0,1
+481633276,9,organic,water,pinterest,3,0,0,1
+482123125,9,organic,beer,youtube,1,0,0,1
+482996002,9,organic,butter,instagram,2,148,1,1
+483803909,9,organic,red wine,reddit,1,274,3,1
+484150611,9,organic,beef,twitter,1,0,0,1
+484440964,9,organic,banana,naver,1,0,0,1
+484531148,9,organic,avocado,yelp,2,0,0,1
+484692092,9,organic,gift card,instagram stories,1,480,1,1
+485142249,9,organic,chicken,google,1,0,0,1
+485528230,9,organic,oranges,facebook,3,0,0,1
+48695101,9,referral,milk,pinterest,1,0,0,1
+487770122,9,organic,wine,youtube,1,0,0,1
+48855738,9,organic,water,instagram,1,389,1,1
+490250774,9,referral,beer,reddit,1,88,1,1
+490884446,9,referral,butter,twitter,1,0,0,0
+491024824,9,organic,red wine,naver,1,223,1,1
+492255584,9,organic,beef,yelp,1,0,0,1
+49308995,9,organic,banana,instagram stories,1,0,0,1
+494057849,9,organic,avocado,google,1,105,1,1
+494787296,9,organic,gift card,facebook,1,0,0,1
+49578671,9,organic,chicken,pinterest,1,0,0,1
+497351660,9,organic,oranges,youtube,1,0,0,1
+497873191,9,organic,milk,instagram,1,0,0,1
+498625075,9,organic,wine,reddit,2,0,0,1
+500548032,9,organic,water,twitter,6,130,1,1
+505933600,9,organic,beer,naver,1,0,0,1
+508763987,9,organic,butter,yelp,1,311,1,1
+508798290,9,organic,red wine,instagram stories,1,0,0,1
+509440497,9,organic,beef,google,1,523,1,1
+50948453,9,organic,banana,facebook,1,0,0,1
+51063411,9,organic,avocado,pinterest,5,274,1,1
+510653072,9,referral,gift card,youtube,1,0,0,1
+511730967,9,organic,chicken,instagram,1,0,0,1
+512266293,9,organic,oranges,reddit,3,0,0,1
+513624687,9,organic,milk,twitter,1,0,0,1
+514661977,9,organic,wine,naver,1,467,3,1
+515006768,9,organic,water,yelp,3,0,0,1
+515079359,9,organic,beer,instagram stories,1,90,1,1
+51567595,9,organic,butter,google,1,0,0,1
+51720905,9,organic,red wine,facebook,1,127,1,1
+517379772,9,referral,beef,pinterest,1,0,0,1
+517955838,9,referral,banana,youtube,1,0,0,1
+52124413,9,organic,avocado,instagram,1,399,3,1
+521939483,9,organic,gift card,reddit,1,0,0,1
+52253759,9,organic,chicken,twitter,1,271,1,1
+524266456,9,organic,oranges,naver,1,0,0,1
+524620978,9,organic,milk,yelp,2,508,1,1
+525973700,9,organic,wine,instagram stories,1,0,0,1
+526391896,9,organic,water,google,1,232,1,1
+526721572,9,organic,beer,facebook,1,422,1,1
+528488505,9,organic,butter,pinterest,1,394,1,1
+530896387,9,organic,red wine,youtube,1,0,0,1
+531145115,9,organic,beef,instagram,2,0,0,1
+531269549,9,organic,banana,reddit,1,337,1,1
+531981532,9,organic,avocado,twitter,2,0,0,1
+533671880,9,organic,gift card,naver,1,0,0,1
+533735502,9,organic,chicken,yelp,1,0,0,1
+534573557,9,organic,oranges,instagram stories,1,0,0,1
+534785938,9,organic,milk,google,2,0,0,1
+538214426,9,organic,wine,facebook,1,0,0,1
+541242143,9,organic,water,pinterest,2,220,1,1
+54157696,9,organic,beer,youtube,1,0,0,1
+542240281,9,organic,butter,instagram,1,279,1,1
+543475026,9,organic,red wine,reddit,1,0,0,1
+546559457,9,organic,beef,twitter,1,0,0,1
+547052596,9,organic,banana,naver,6,126,1,1
+547199399,9,organic,avocado,yelp,1,0,0,1
+549438778,9,organic,gift card,instagram stories,1,0,0,1
+549848307,9,organic,chicken,google,2,470,1,1
+551921490,9,organic,oranges,facebook,1,249,3,1
+55350034,9,organic,milk,pinterest,1,157,1,1
+553525503,9,organic,wine,youtube,1,0,0,1
+554545404,9,referral,water,instagram,1,188,1,1
+554688491,9,organic,beer,reddit,2,243,1,1
+55474975,9,organic,butter,twitter,1,0,0,1
+555375732,9,organic,red wine,naver,1,0,0,1
+555617714,9,organic,beef,yelp,4,0,0,1
+555820360,9,organic,banana,instagram stories,2,370,3,1
+555914549,9,referral,avocado,google,2,0,0,1
+560052758,9,organic,gift card,facebook,1,0,0,1
+56060337,9,organic,chicken,pinterest,1,0,0,1
+563448741,9,organic,oranges,youtube,5,0,0,1
+563465645,9,organic,milk,instagram,1,0,0,1
+564455490,9,organic,wine,reddit,1,353,1,1
+564612399,9,organic,water,twitter,1,0,0,1
+565932801,9,organic,beer,naver,1,268,1,1
+566003317,9,organic,butter,yelp,1,692,3,1
+566841681,9,organic,red wine,instagram stories,1,0,0,1
+569998365,9,organic,beef,google,2,0,0,1
+570264675,9,organic,banana,facebook,1,0,0,1
+570337949,9,organic,avocado,pinterest,1,0,0,1
+572734944,9,organic,gift card,youtube,1,0,0,1
+573094794,9,organic,chicken,instagram,2,426,1,1
+573415569,9,referral,oranges,reddit,1,218,3,1
+574778143,9,referral,milk,twitter,1,0,0,1
+577043596,9,organic,wine,naver,2,0,0,1
+577864399,9,referral,water,yelp,1,0,0,1
+582754947,9,organic,beer,instagram stories,1,0,0,1
+584631279,9,organic,butter,google,1,412,4,1
+58485827,9,organic,red wine,facebook,1,0,0,1
+585112331,9,organic,beef,pinterest,1,0,0,1
+588661446,9,organic,banana,youtube,1,0,0,1
+590180143,9,organic,avocado,instagram,2,0,0,1
+590222180,9,organic,gift card,reddit,1,0,0,1
+592769917,9,organic,chicken,twitter,1,1070,3,1
+59465887,9,organic,oranges,naver,1,0,0,1
+596597194,9,organic,milk,yelp,1,156,1,1
+596742660,9,organic,wine,google,1,0,0,1
+600542495,9,organic,water,facebook,1,0,0,1
+601810983,9,organic,beer,pinterest,1,0,0,1
+602470280,9,organic,butter,youtube,1,0,0,1
+604987849,9,organic,red wine,instagram,1,0,0,1
+60653598,9,organic,beef,reddit,1,0,0,1
+606805758,9,organic,banana,twitter,1,0,0,1
+607945991,9,organic,avocado,naver,1,0,0,1
+608234287,9,organic,gift card,yelp,1,1243,3,1
+60832589,9,organic,chicken,google,3,0,0,1
+609069890,9,organic,oranges,facebook,1,0,0,1
+609868748,9,organic,milk,pinterest,1,0,0,1
+612129367,9,organic,wine,youtube,9,332,3,1
+61274567,9,organic,water,instagram,1,0,0,1
+613121956,9,organic,beer,reddit,1,0,0,1
+615596955,9,organic,butter,twitter,1,0,0,1
+617189260,9,organic,red wine,naver,1,0,0,1
+619261597,9,organic,beef,google,1,0,0,1
+619646957,9,organic,banana,facebook,2,208,1,1
+619669211,9,organic,avocado,pinterest,1,0,0,1
+619855426,9,organic,gift card,youtube,1,0,0,1
+619980736,9,organic,chicken,instagram,1,432,3,1
+622025189,9,organic,oranges,reddit,1,0,0,1
+623155961,9,organic,milk,twitter,1,0,0,1
+623257519,9,organic,wine,naver,1,0,0,1
+62349075,9,organic,water,yelp,1,0,0,1
+623695926,9,organic,beer,google,1,0,0,1
+624042805,9,organic,butter,google,1,319,1,1
+625833602,9,organic,red wine,facebook,1,353,1,1
+625930330,9,organic,beef,pinterest,1,0,0,1
+626061113,9,organic,banana,youtube,1,271,1,1
+626320000,9,organic,avocado,instagram,1,258,1,1
+629650595,9,organic,gift card,reddit,1,208,1,1
+629715456,9,organic,chicken,twitter,1,540,1,1
+629993234,9,organic,oranges,google,1,0,0,1
+630883310,9,organic,milk,facebook,1,132,1,1
+632474944,9,organic,wine,pinterest,1,0,0,1
+632716131,9,organic,water,youtube,1,340,3,1
+633109217,9,organic,beer,instagram,2,215,1,1
+63401103,9,organic,butter,reddit,1,200,1,1
+634093660,9,organic,red wine,twitter,1,184,1,1
+634286492,9,rss,beef,naver,1,377,3,1
+635826755,9,organic,banana,google,1,0,0,1
+637149722,9,referral,avocado,facebook,1,0,0,1
+637465545,9,organic,gift card,pinterest,1,0,0,1
+637829803,9,organic,chicken,youtube,2,0,0,1
+639253907,9,organic,oranges,instagram,1,0,0,1
+639711063,9,organic,milk,reddit,1,0,0,1
+64011898,9,organic,wine,twitter,1,178,1,1
+640666517,9,organic,water,google,1,0,0,1
+643041485,9,organic,beer,facebook,1,0,0,0
+643512737,9,organic,butter,pinterest,1,732,3,1
+644385125,9,organic,red wine,youtube,1,0,0,1
+644708618,9,organic,beef,instagram,1,677,3,1
+646432873,9,organic,banana,reddit,1,0,0,1
+646916804,9,organic,avocado,twitter,2,0,0,0
+647464943,9,organic,gift card,naver,1,0,0,0
+648616269,9,organic,chicken,google,1,357,1,1
+649473379,9,organic,oranges,facebook,2,335,1,1
+651049091,9,organic,milk,pinterest,1,0,0,1
+651378134,9,organic,wine,youtube,1,0,0,1
+651395812,9,organic,water,instagram,1,0,0,0
+654294625,9,organic,beer,reddit,3,0,0,1
+654672117,9,organic,butter,twitter,1,442,3,1
+655365261,9,organic,red wine,naver,1,0,0,0
+656141698,9,organic,beef,google,1,0,0,1
+657454127,9,organic,banana,facebook,1,0,0,1
+658578277,9,referral,avocado,pinterest,1,0,0,1
+6598703,9,organic,gift card,youtube,1,0,0,0
+661037,9,organic,chicken,instagram,1,0,0,1
+661586690,9,organic,oranges,reddit,1,385,3,1
+66449028,9,organic,milk,twitter,1,336,1,1
+664614259,9,organic,wine,google,2,1837,8,1
+665862792,9,organic,water,facebook,1,243,1,1
+6683096,9,organic,beer,pinterest,1,0,0,1
+671064630,9,organic,butter,youtube,1,0,0,1
+672815951,9,organic,red wine,instagram,1,0,0,1
+6732943,9,organic,beef,reddit,4,375,1,1
+673399706,9,organic,banana,twitter,3,0,0,1
+674016950,9,organic,avocado,naver,1,0,0,1
+674419076,9,organic,gift card,yelp,1,232,1,1
+676246883,9,organic,chicken,google,1,0,0,1
+677435799,9,organic,oranges,facebook,1,0,0,1
+677694935,9,organic,milk,pinterest,1,214,1,1
+678388669,9,organic,wine,youtube,1,0,0,0
+678649860,9,organic,water,instagram,2,0,0,1
+679256630,9,organic,beer,google,1,0,0,1
+681149704,9,organic,butter,facebook,1,228,3,1
+682211593,9,referral,red wine,pinterest,1,395,4,1
+682461174,9,referral,beef,youtube,2,500,1,1
+68312066,9,referral,banana,instagram,2,0,0,1
+687680467,9,referral,avocado,reddit,2,0,0,1
+689519351,9,organic,gift card,twitter,1,0,0,1
+689571886,9,referral,chicken,naver,3,0,0,0
+690346768,9,referral,oranges,yelp,2,305,3,1
+690706471,9,referral,milk,google,6,313,1,1
+690851019,9,referral,wine,facebook,5,128,1,1
+690888991,9,referral,water,pinterest,3,1802,4,1
+692686520,9,referral,beer,youtube,4,0,0,1
+693915155,9,referral,butter,instagram,1,340,1,1
+695179398,9,referral,red wine,google,1,113,1,1
+695863565,9,referral,beef,facebook,1,72,1,1
+696601786,9,referral,banana,pinterest,1,152,1,1
+697010376,9,organic,avocado,youtube,1,310,1,1
+697291682,9,referral,gift card,instagram,2,0,0,1
+697638436,9,organic,chicken,reddit,3,0,0,1
+699129658,9,organic,oranges,twitter,1,192,1,1
+699350450,9,referral,milk,naver,3,0,0,1
+699582977,9,referral,wine,yelp,1,433,3,1
+7003147,9,referral,water,instagram stories,3,260,1,1
+701285617,9,referral,beer,google,1,0,0,1
+701911463,9,referral,butter,facebook,5,0,0,1
+703859377,9,referral,red wine,pinterest,1,0,0,1
+704560046,9,organic,beef,youtube,3,0,0,1
+708194386,9,referral,banana,instagram,6,211,1,1
+708278900,9,referral,avocado,reddit,3,0,0,1
+709172940,9,referral,gift card,twitter,5,535,3,1
+709685008,9,referral,chicken,naver,3,0,0,1
+710738787,9,organic,oranges,yelp,1,0,0,1
+710901077,9,referral,milk,instagram stories,1,0,0,1
+711540109,9,referral,wine,google,4,170,1,1
+711725678,9,referral,water,facebook,3,0,0,1
+712562809,9,referral,beer,pinterest,4,0,0,1
+714294292,9,referral,butter,youtube,1,753,1,1
+716165417,9,referral,red wine,instagram,1,0,0,1
+716409363,9,referral,beef,reddit,3,0,0,1
+717072212,9,referral,banana,twitter,1,0,0,1
+719280513,9,organic,avocado,naver,1,0,0,1
+719380188,9,referral,gift card,yelp,1,0,0,1
+719714416,9,organic,chicken,instagram stories,1,737,3,1
+719884019,9,referral,oranges,google,1,0,0,1
+720547666,9,referral,milk,facebook,2,0,0,1
+72078211,9,organic,wine,pinterest,1,0,0,1
+722545062,9,organic,water,youtube,5,316,3,1
+722555146,9,organic,beer,instagram,3,0,0,1
+72398251,9,organic,butter,reddit,1,0,0,1
+725404950,9,organic,red wine,twitter,1,0,0,1
+726879533,9,organic,beef,naver,1,0,0,1
+727188817,9,organic,banana,yelp,3,228,1,1
+727774015,9,organic,avocado,instagram stories,1,887,4,1
+728826106,9,organic,gift card,google,1,0,0,1
+729752562,9,organic,chicken,facebook,2,0,0,1
+730082481,9,organic,oranges,pinterest,1,0,0,1
+731116278,9,organic,milk,youtube,2,0,0,1
+731376167,9,organic,wine,instagram,2,0,0,0
+732413236,9,organic,water,reddit,5,0,0,1
+738031775,9,organic,beer,twitter,6,188,1,1
+741660116,9,organic,butter,naver,3,0,0,1
+742703392,9,organic,red wine,yelp,2,2049,5,1
+743265160,9,organic,beef,instagram stories,3,2146,1,1
+743308838,9,organic,banana,google,2,0,0,0
+744279427,9,organic,avocado,facebook,1,0,0,1
+744585999,9,organic,gift card,pinterest,1,0,0,1
+744792822,9,referral,chicken,youtube,2,0,0,1
+745948377,9,referral,oranges,instagram,5,233,1,1
+748235655,9,referral,milk,reddit,5,0,0,1
+748711552,9,referral,wine,twitter,7,0,0,1
+749433003,9,referral,water,naver,4,220,1,1
+75088168,9,referral,beer,yelp,1,0,0,1
+751399368,9,organic,butter,google,6,0,0,1
